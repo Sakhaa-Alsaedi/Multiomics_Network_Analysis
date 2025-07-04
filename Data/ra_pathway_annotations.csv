@@ -1,0 +1,82 @@
+gene_symbol,pathway_name,pathway_category,gene_function,pathway_size,pathway_significance
+HLA-DRB1,Immune_Response,Immune Response,Function related to immune response,14,0.0006718638272197494
+HLA-DQA1,Immune_Response,Immune Response,Function related to immune response,14,0.0005903947880606609
+STAT1,Immune_Response,Immune Response,Function related to immune response,14,0.0006273175634695431
+STAT3,Immune_Response,Immune Response,Function related to immune response,14,0.0008986540293024259
+STAT4,Immune_Response,Immune Response,Function related to immune response,14,0.0008200536574174231
+IRF4,Immune_Response,Immune Response,Function related to immune response,14,0.00012482803917363773
+IRF5,Immune_Response,Immune Response,Function related to immune response,14,0.0006427438397891076
+NFKB1,Immune_Response,Immune Response,Function related to immune response,14,0.00016160111020369048
+RELA,Immune_Response,Immune Response,Function related to immune response,14,0.00014840485694306074
+CD40,Immune_Response,Immune Response,Function related to immune response,14,0.00044923544774848795
+CD80,Immune_Response,Immune Response,Function related to immune response,14,0.000485551883623198
+CD86,Immune_Response,Immune Response,Function related to immune response,14,0.00010411588121665806
+CTLA4,Immune_Response,Immune Response,Function related to immune response,14,0.0005118161647803917
+IL2RA,Immune_Response,Immune Response,Function related to immune response,14,0.00017650539983264565
+TNF,Inflammatory_Response,Inflammatory Response,Function related to inflammatory response,12,0.0005506483153271355
+IL1B,Inflammatory_Response,Inflammatory Response,Function related to inflammatory response,12,0.0008321078110985159
+IL6,Inflammatory_Response,Inflammatory Response,Function related to inflammatory response,12,8.595872944508408e-05
+IL17A,Inflammatory_Response,Inflammatory Response,Function related to inflammatory response,12,0.0003992582575478551
+IL23R,Inflammatory_Response,Inflammatory Response,Function related to inflammatory response,12,0.00023371523142280874
+IFNG,Inflammatory_Response,Inflammatory Response,Function related to inflammatory response,12,0.000574655774760233
+TNFAIP3,Inflammatory_Response,Inflammatory Response,Function related to inflammatory response,12,0.0008935200726432956
+CCL2,Inflammatory_Response,Inflammatory Response,Function related to inflammatory response,12,0.0001972803798430554
+CCL3,Inflammatory_Response,Inflammatory Response,Function related to inflammatory response,12,0.0006763079321323612
+CXCL8,Inflammatory_Response,Inflammatory Response,Function related to inflammatory response,12,9.310297694971068e-05
+CXCL10,Inflammatory_Response,Inflammatory Response,Function related to inflammatory response,12,0.0005458011230567934
+IL1RN,Inflammatory_Response,Inflammatory Response,Function related to inflammatory response,12,0.0006760780860618236
+CD28,T_Cell_Activation,T Cell Activation,Function related to t cell activation,11,0.0006708980829345331
+ICOS,T_Cell_Activation,T Cell Activation,Function related to t cell activation,11,0.0007382475957801046
+FOXP3,T_Cell_Activation,T Cell Activation,Function related to t cell activation,11,0.0004173796258699986
+TBX21,T_Cell_Activation,T Cell Activation,Function related to t cell activation,11,0.000760028524699406
+GATA3,T_Cell_Activation,T Cell Activation,Function related to t cell activation,11,0.00047289972413872537
+IL4,T_Cell_Activation,T Cell Activation,Function related to t cell activation,11,0.0003229256407822325
+IL13,T_Cell_Activation,T Cell Activation,Function related to t cell activation,11,0.0003219619272779277
+PDCD1,T_Cell_Activation,T Cell Activation,Function related to t cell activation,11,0.00017567939623161697
+CD247,T_Cell_Activation,T Cell Activation,Function related to t cell activation,11,0.0007205792456534775
+PRKCQ,T_Cell_Activation,T Cell Activation,Function related to t cell activation,11,0.00015763576581753394
+RASGRP1,T_Cell_Activation,T Cell Activation,Function related to t cell activation,11,0.0006362164251644695
+CD19,B_Cell_Function,B Cell Function,Function related to b cell function,10,0.0006653646850878717
+CD20,B_Cell_Function,B Cell Function,Function related to b cell function,10,0.00028664204691133873
+CD22,B_Cell_Function,B Cell Function,Function related to b cell function,10,0.0004886344509617633
+BAFF,B_Cell_Function,B Cell Function,Function related to b cell function,10,0.0006709260690053186
+APRIL,B_Cell_Function,B Cell Function,Function related to b cell function,10,1.8514753511213704e-07
+TACI,B_Cell_Function,B Cell Function,Function related to b cell function,10,0.0002747471666423547
+BCMA,B_Cell_Function,B Cell Function,Function related to b cell function,10,0.0003796441143824268
+BLK,B_Cell_Function,B Cell Function,Function related to b cell function,10,0.0009308537406433518
+BANK1,B_Cell_Function,B Cell Function,Function related to b cell function,10,0.0004642421420394303
+AFF3,B_Cell_Function,B Cell Function,Function related to b cell function,10,0.0005069879906470247
+RANKL,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.000664126475389961
+OPG,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.0004514934962714435
+RANK,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.0004323902457331028
+RUNX2,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.0009743788452375229
+SOX9,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.0008123228344233849
+ACAN,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.0007017653482847493
+COL1A1,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.00048054285452434016
+COL2A1,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.0003463166477965551
+COMP,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.0005919059305987106
+MMP1,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.000446217185072209
+MMP3,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.00046659508832526636
+MMP9,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.00022161061514900152
+MMP13,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.0007912762520336102
+TIMP1,Bone_Cartilage_Metabolism,Bone Cartilage Metabolism,Function related to bone cartilage metabolism,14,0.0007910787151086098
+C1QA,Complement_Coagulation,Complement Coagulation,Function related to complement coagulation,12,0.0003009298593108315
+C3,Complement_Coagulation,Complement Coagulation,Function related to complement coagulation,12,0.00028912838243787844
+C4A,Complement_Coagulation,Complement Coagulation,Function related to complement coagulation,12,0.00027805783008620806
+C5,Complement_Coagulation,Complement Coagulation,Function related to complement coagulation,12,0.00016265603670635848
+CFB,Complement_Coagulation,Complement Coagulation,Function related to complement coagulation,12,0.000858222902248461
+CFH,Complement_Coagulation,Complement Coagulation,Function related to complement coagulation,12,0.0002655893664554794
+F2,Complement_Coagulation,Complement Coagulation,Function related to complement coagulation,12,0.0006986586971539408
+F3,Complement_Coagulation,Complement Coagulation,Function related to complement coagulation,12,9.967029558609432e-05
+F8,Complement_Coagulation,Complement Coagulation,Function related to complement coagulation,12,0.0007353843676522032
+SERPINE1,Complement_Coagulation,Complement Coagulation,Function related to complement coagulation,12,0.00014731472405375064
+PLAT,Complement_Coagulation,Complement Coagulation,Function related to complement coagulation,12,0.00015881659397281656
+PLG,Complement_Coagulation,Complement Coagulation,Function related to complement coagulation,12,0.0008315332231454731
+BCL2,Apoptosis_Cell_Cycle,Apoptosis Cell Cycle,Function related to apoptosis cell cycle,8,0.00029092642148979624
+BAX,Apoptosis_Cell_Cycle,Apoptosis Cell Cycle,Function related to apoptosis cell cycle,8,0.00017239448609236986
+FAS,Apoptosis_Cell_Cycle,Apoptosis Cell Cycle,Function related to apoptosis cell cycle,8,0.000536897371436677
+FASLG,Apoptosis_Cell_Cycle,Apoptosis Cell Cycle,Function related to apoptosis cell cycle,8,7.486795405405867e-05
+CASP3,Apoptosis_Cell_Cycle,Apoptosis Cell Cycle,Function related to apoptosis cell cycle,8,0.0007104252938426399
+CASP8,Apoptosis_Cell_Cycle,Apoptosis Cell Cycle,Function related to apoptosis cell cycle,8,0.0008413465246107616
+TP53,Apoptosis_Cell_Cycle,Apoptosis Cell Cycle,Function related to apoptosis cell cycle,8,0.0002484099957354621
+MDM2,Apoptosis_Cell_Cycle,Apoptosis Cell Cycle,Function related to apoptosis cell cycle,8,0.0006980016799772772
