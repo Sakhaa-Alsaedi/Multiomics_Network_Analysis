@@ -231,7 +231,7 @@ If you use this tutorial or methodology in your research, please cite:
 - 📖 Check the [troubleshooting guide](docs/troubleshooting.md)
 - 🔍 Search existing [GitHub issues](https://github.com/your-username/ra-multiomics-network-analysis/issues)
 - 💬 Start a [discussion](https://github.com/your-username/ra-multiomics-network-analysis/discussions)
-- 📧 Contact the maintainers
+- 📧 Contact: sakhaa.alsaedi@kaust.edu.sa
 
 ### 🐛 **Reporting Issues**
 Please include:
